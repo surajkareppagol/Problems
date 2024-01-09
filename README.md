@@ -6,3 +6,9 @@ Yep, solving `Leetcode Problems` and keeping a track.
 
 - 13\. Roman To Integer
 - 1941\. Check if All Characters Have Equal Number of Occurrences
+
+## There Are More Problems
+
+Solved some more problems from other platforms.
+
+- Remove Spaces
