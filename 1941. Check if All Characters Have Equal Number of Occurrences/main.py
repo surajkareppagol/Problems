@@ -15,4 +15,5 @@ def areOccurrencesEqual(s: str) -> bool:
 
     return True
 
+
 print(areOccurrencesEqual("aab"))
