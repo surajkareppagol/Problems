@@ -1,6 +1,6 @@
 # Leetcode Problems
 
-Yep, solving `Leetcode Problems` and keeping a track.
+Yep, solving `Leetcode Problems` and keeping track of them.
 
 ## Problems Solved Till Now
 
