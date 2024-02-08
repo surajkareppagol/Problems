@@ -1,8 +1,8 @@
-# Leetcode Problems
+# Problems
 
-Yep, solving `Leetcode Problems` and keeping track of them.
+🧩 Collection of solved problems from `Leetcode`, `Hackerrank` and other platforms.
 
-## Problems Solved Till Now
+## 🔢 Leetcode
 
 - 13\. Roman To Integer
 - 20\. Valid Parentheses
@@ -11,8 +11,12 @@ Yep, solving `Leetcode Problems` and keeping track of them.
 - 1207\. Unique Number of Occurrences
 - 1941\. Check if All Characters Have Equal Number of Occurrences
 
-## There Are More Problems
+## 🧮 Hackerrank
+
+- 1\. Write A Function (Leap Year)
+
+## 📚 Other platforms
 
 Solved some more problems from other platforms.
 
-- Remove Spaces
+- 1\. Remove Spaces
