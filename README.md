@@ -9,6 +9,7 @@
 - 58\. Length of Last Word
 - 907\. Sum of Subarray Minimums
 - 1207\. Unique Number of Occurrences
+- 1880\. Check if Word Equals Summation of Two Words
 - 1941\. Check if All Characters Have Equal Number of Occurrences
 
 ## 🧮 Hackerrank
