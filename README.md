@@ -15,6 +15,7 @@
 ## 🧮 Hackerrank
 
 - 1\. Write A Function (Leap Year)
+- 2\. List Comprehensions
 
 ## 📚 Other platforms
 
