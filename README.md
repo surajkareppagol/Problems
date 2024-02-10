@@ -12,6 +12,7 @@
 - 1437\. Check If All 1's Are at Least Length K Places Away
 - 1880\. Check if Word Equals Summation of Two Words
 - 1941\. Check if All Characters Have Equal Number of Occurrences
+- 2798\. Number of Employees Who Met the Target
 
 ## 🧮 Hackerrank
 
@@ -19,6 +20,7 @@
 - 2\. List Comprehensions
 - 3\. Find A String
 - 4\. ginortS
+- 5\. No Idea
 
 ## 📚 Other platforms
 
