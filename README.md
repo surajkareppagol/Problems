@@ -17,6 +17,8 @@
 
 - 1\. Write A Function (Leap Year)
 - 2\. List Comprehensions
+- 3\. Find A String
+- 4\. ginortS
 
 ## 📚 Other platforms
 
