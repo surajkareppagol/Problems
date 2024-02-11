@@ -7,6 +7,7 @@
 - 13\. Roman To Integer
 - 20\. Valid Parentheses
 - 58\. Length of Last Word
+- 258\. Add Digits
 - 907\. Sum of Subarray Minimums
 - 1207\. Unique Number of Occurrences
 - 1437\. Check If All 1's Are at Least Length K Places Away
