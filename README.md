@@ -10,6 +10,7 @@
 - 169\. Majority Element
 - 258\. Add Digits
 - 907\. Sum of Subarray Minimums
+- 922\. Sort Array By Parity II
 - 1207\. Unique Number of Occurrences
 - 1437\. Check If All 1's Are at Least Length K Places Away
 - 1880\. Check if Word Equals Summation of Two Words
