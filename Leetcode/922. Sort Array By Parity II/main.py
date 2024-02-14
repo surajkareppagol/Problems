@@ -1,16 +1,12 @@
 def sortArrayByParityII(nums: list) -> list:
-    even, odd = [], []
-
-    for i in nums:
-        if i % 2 == 0:
-            even.append(i)
-        else:
-            odd.append(i)
+    even = [i for i in nums if i % 2 == 0]
+    odd = [i for i in nums if i % 2 != 0]
 
     result = []
 
-    for i in zip(even, odd):
-        result.extend(i)
+    for e, o in zip(even, odd):
+        result.append(e)
+        result.append(o)
 
     return result
 
