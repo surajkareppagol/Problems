@@ -1,11 +1,11 @@
 def rearrangeArray(nums: list) -> list:
-    positive = [i for i in nums if i > 0]
-    negative = [i for i in nums if i < 0]
-
     result = []
-    for i in range(len(positive)):
-        result.append(positive[i])
-        result.append(negative[i])
+
+    for positive, negative in zip(
+        [i for i in nums if i > 0], [i for i in nums if i < 0]
+    ):
+        result.append(positive)
+        result.append(negative)
 
     return result
 
