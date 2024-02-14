@@ -14,6 +14,7 @@
 - 1437\. Check If All 1's Are at Least Length K Places Away
 - 1880\. Check if Word Equals Summation of Two Words
 - 1941\. Check if All Characters Have Equal Number of Occurrences
+- 2149\. Rearrange Array Elements by Sign
 - 2798\. Number of Employees Who Met the Target
 
 ## 🧮 Hackerrank
@@ -24,8 +25,14 @@
 - 4\. ginortS
 - 5\. No Idea
 
-## 📚 Other platforms
+## 📚 Other Platforms
 
 Solved some more problems from other platforms.
 
 - 1\. Remove Spaces
+
+## ❌ Some Of My Mistakes While Solving Problems
+
+- Don't go solving it blindly, yes, all the problems have some method, so first devise it
+- Once you have solved a problem, go and check out others solution
+- Once you have solved a problem, try to optimize it
