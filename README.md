@@ -14,6 +14,7 @@
 - 1207\. Unique Number of Occurrences
 - 1437\. Check If All 1's Are at Least Length K Places Away
 - 1880\. Check if Word Equals Summation of Two Words
+- 1903\. Largest Odd Number in String
 - 1941\. Check if All Characters Have Equal Number of Occurrences
 - 2149\. Rearrange Array Elements by Sign
 - 2798\. Number of Employees Who Met the Target
