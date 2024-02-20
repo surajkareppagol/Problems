@@ -7,8 +7,10 @@
 - 13\. Roman To Integer
 - 20\. Valid Parentheses
 - 58\. Length of Last Word
+- 136\. Single Number
 - 169\. Majority Element
 - 258\. Add Digits
+- 268\. Missing Number
 - 907\. Sum of Subarray Minimums
 - 922\. Sort Array By Parity II
 - 1207\. Unique Number of Occurrences
