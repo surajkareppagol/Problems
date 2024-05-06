@@ -4,4 +4,4 @@
 
 ## 🔢 Leetcode
 
-- 2487. Remove Nodes From Linked List
+- 2487\. Remove Nodes From Linked List (Solution From Editorial)
